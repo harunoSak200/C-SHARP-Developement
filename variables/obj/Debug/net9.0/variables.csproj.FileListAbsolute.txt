@@ -1,0 +1,15 @@
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\bin\Debug\net9.0\variables.exe
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\bin\Debug\net9.0\variables.deps.json
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\bin\Debug\net9.0\variables.runtimeconfig.json
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\bin\Debug\net9.0\variables.dll
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\bin\Debug\net9.0\variables.pdb
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\obj\Debug\net9.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\obj\Debug\net9.0\variables.AssemblyInfoInputs.cache
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\obj\Debug\net9.0\variables.AssemblyInfo.cs
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\obj\Debug\net9.0\variables.csproj.CoreCompileInputs.cache
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\obj\Debug\net9.0\variables.sourcelink.json
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\obj\Debug\net9.0\variables.dll
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\obj\Debug\net9.0\refint\variables.dll
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\obj\Debug\net9.0\variables.pdb
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\obj\Debug\net9.0\variables.genruntimeconfig.cache
+C:\DEVELOPEMENT\C-SHARP-Developement\variables\obj\Debug\net9.0\ref\variables.dll

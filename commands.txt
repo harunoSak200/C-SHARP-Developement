@@ -1,0 +1,7 @@
+command to create a app : 
+dotnet new console -n MyApp
+
+command to to run the program : 
+
+first change the director to /MyApp then : 
+dotnet run

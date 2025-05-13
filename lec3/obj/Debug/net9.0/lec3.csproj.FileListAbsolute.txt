@@ -1,0 +1,15 @@
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\bin\Debug\net9.0\lec3.exe
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\bin\Debug\net9.0\lec3.deps.json
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\bin\Debug\net9.0\lec3.runtimeconfig.json
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\bin\Debug\net9.0\lec3.dll
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\bin\Debug\net9.0\lec3.pdb
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\obj\Debug\net9.0\lec3.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\obj\Debug\net9.0\lec3.AssemblyInfoInputs.cache
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\obj\Debug\net9.0\lec3.AssemblyInfo.cs
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\obj\Debug\net9.0\lec3.csproj.CoreCompileInputs.cache
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\obj\Debug\net9.0\lec3.sourcelink.json
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\obj\Debug\net9.0\lec3.dll
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\obj\Debug\net9.0\refint\lec3.dll
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\obj\Debug\net9.0\lec3.pdb
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\obj\Debug\net9.0\lec3.genruntimeconfig.cache
+C:\DEVELOPEMENT\C-SHARP-Developement\lec3\obj\Debug\net9.0\ref\lec3.dll
